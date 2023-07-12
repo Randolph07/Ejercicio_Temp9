@@ -3,7 +3,7 @@ package Ejercicio_Tem9;
 public class Persona {
 
     private int edad ;
-    static private String nombre;
+    private String nombre;
     private String telefono;
 
 
